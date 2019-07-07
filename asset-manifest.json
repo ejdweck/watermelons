@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/watermelons/static/css/main.0ac5b48d.chunk.css",
+    "main.js": "/watermelons/static/js/main.5f2a4e16.chunk.js",
+    "main.js.map": "/watermelons/static/js/main.5f2a4e16.chunk.js.map",
+    "runtime~main.js": "/watermelons/static/js/runtime~main.d7752476.js",
+    "runtime~main.js.map": "/watermelons/static/js/runtime~main.d7752476.js.map",
+    "static/js/2.330470ca.chunk.js": "/watermelons/static/js/2.330470ca.chunk.js",
+    "static/js/2.330470ca.chunk.js.map": "/watermelons/static/js/2.330470ca.chunk.js.map",
+    "index.html": "/watermelons/index.html",
+    "precache-manifest.35d97e3243f45788517ad25f2d748a52.js": "/watermelons/precache-manifest.35d97e3243f45788517ad25f2d748a52.js",
+    "service-worker.js": "/watermelons/service-worker.js",
+    "static/css/main.0ac5b48d.chunk.css.map": "/watermelons/static/css/main.0ac5b48d.chunk.css.map",
+    "static/media/blue-melon.svg": "/watermelons/static/media/blue-melon.d1800f21.svg",
+    "static/media/pink-melon.svg": "/watermelons/static/media/pink-melon.b0a39c38.svg",
+    "static/media/purple-melon.svg": "/watermelons/static/media/purple-melon.dee43b6f.svg",
+    "static/media/red-melon.svg": "/watermelons/static/media/red-melon.09ac3d33.svg"
+  }
+}
