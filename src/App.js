@@ -68,66 +68,216 @@ class App extends React.Component {
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+            
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+           
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+          
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+         
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+ 
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+            
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+            
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+            
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+            
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+            
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+            
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+            
             <Card accent="green" />
             <Card accent="yellow" />
             <Card accent="orange" />
             <Card accent="purple" />
+            
+            <Card accent="DARKFRUIT" />
+            <Card accent="green" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="orange" />
+            <Card accent="yellow" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="yellow" />
+            <Card accent="purple" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="orange" />
+
+            <Card accent="green" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="green" />
+            <Card accent="purple" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="orange" />
+            <Card accent="yellow" />
+            <Card accent="purple" />
+            <Card accent="yellow" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="green" />
+            <Card accent="purple" />
+            <Card accent="DARKFRUIT" />
+
+            <Card accent="green" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="yellow" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="orange" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="purple" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+
+
+
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+
+            <Card accent="DARKFRUIT" />
+            <Card accent="green" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="yellow" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="orange" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="purple" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
+            <Card accent="DARKFRUIT" />
           </Board>
         </StyledContainer>
       </React.Fragment>

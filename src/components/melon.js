@@ -6,8 +6,12 @@ import blue from './svgs/blue-melon.svg'
 import purple from './svgs/purple-melon.svg'
 import red from './svgs/red-melon.svg'
 
+import darkfruit from './svgs/DARKFRUIT.svg'
+
 const StyledContainer = styled.div`
-text-align: center;
+  text-align: center;
+  width: 50px;
+  margin-right: 0px;
 `
 
 const melon = (color) => {
@@ -20,6 +24,8 @@ const melon = (color) => {
     melonType = purple;
   }  else if (color === 'red') {
     melonType = red;
+  }  else if (color === 'DARKFRUIT') {
+    melonType = darkfruit;
   }
   return (
     <StyledContainer>
