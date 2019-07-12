@@ -4,6 +4,10 @@ import styled from 'styled-components'
 import Card from './components/Card'
 import Board from './components/Board'
 
+import theme from './components/theme'
+
+import multifruit from './components/svgs/multifruit.svg'
+
 const StyledContainer = styled.div`
   display: flex;
   flex-direction: row;
@@ -26,7 +30,7 @@ const StyledTitleContainer = styled.div`
 const StyledTitle = styled.h1`
   
   font-family: 'Satisfy', cursive;
-  background: linear-gradient(130deg, #FF5DFF, #FFFFFF,#00D8FF, #00D8FF, #FF5DFF);
+  background: linear-gradient(130deg, #FF5DFF, #00D8FF, #FF5DFF);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-size: 250% 250%;
@@ -52,7 +56,9 @@ const StyledTitle = styled.h1`
       100%{background-position:10% 0%}
   }
 `
-
+const StyledMultiFruit = styled.img`
+width: 400px;
+`
 
 
 class App extends React.Component {
@@ -180,8 +186,6 @@ class App extends React.Component {
             <Card accent="DARKFRUIT" />
             <Card accent="DARKFRUIT" />
 
-
-
             <Card accent="DARKFRUIT" />
             <Card accent="DARKFRUIT" />
 
@@ -278,6 +282,33 @@ class App extends React.Component {
             <Card accent="DARKFRUIT" />
             <Card accent="DARKFRUIT" />
             <Card accent="DARKFRUIT" />
+
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
+            <StyledMultiFruit src={multifruit}></StyledMultiFruit>
           </Board>
         </StyledContainer>
       </React.Fragment>

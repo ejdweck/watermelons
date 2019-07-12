@@ -11,7 +11,7 @@ const StyledCard = styled.div`
   justify-content: center;
   // width: 100px;
   max-width: 600px;
-  box-shadow: 5px 5px 5px #f9f9f9;
+  box-shadow: 2px 2px 2px ${theme.colors.blue};
 `
 
 const StyledGreenCard = styled(StyledCard)`
@@ -35,7 +35,7 @@ const StyledPurpleCard = styled(StyledCard)`
 `
 
 const StyledDARKFRUITCard = styled(StyledCard)`
-  border-left: 10px solid ${theme.colors.grey};
+  border-left: 10px solid ${theme.colors.pink};
   background-color: ${theme.colors.darkgrey};
 `
 
